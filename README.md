@@ -2,8 +2,8 @@
 
 ### A customisable study tracker
 ---
-_ Functions_
+___Functions___
 
-*  Custimize the names of the subjects with the_bold_ change subj __function__
-* Walked away from your computer and forgot to pause the timer? Or maybe that quick phone glance turned 20 minutes of procrastination. The __subtract __ function will mean you can easily remove time that wasn't spent studying from your study tracker!
+*  Custimize the names of the subjects with the __change subj__
+* Walked away from your computer and forgot to pause the timer? Or maybe that quick phone glance turned 20 minutes of procrastination. The __subtract__ function will mean you can easily remove time that wasn't spent studying from your study tracker!
 * __Save__ your times so that the next time you open the file it will be waiting for you exactly where you left it
